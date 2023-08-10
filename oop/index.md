@@ -1,0 +1,1 @@
+## [Design patterns](patterns/index.md)
